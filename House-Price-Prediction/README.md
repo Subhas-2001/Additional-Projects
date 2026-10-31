@@ -1,2 +1,2 @@
 # House-Price-Prediction:
-This project focuses on predicting house prices using machine learning regression techniques.
+A supervised machine learning regression project focused on analyzing housing features and predicting property prices using regression algorithms.
