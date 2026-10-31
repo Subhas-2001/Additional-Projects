@@ -12,22 +12,22 @@ A supervised machine learning regression project focused on analyzing housing fe
 A supervised machine learning classification project focused on analyzing patient-related features and predicting the likelihood of heart disease using classification algorithms.
 
 ## Tools and Technologies:
-* Python,
-* Pandas,
-* NumPy,
-* Matplotlib,
-* Seaborn,
-* Scikit-learn,
-* Jupyter Notebook.
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Scikit-learn
+* Jupyter Notebook
 
 ## Project Workflow
-Data Loading and Understanding
-Data Cleaning and Preprocessing
-Exploratory Data Analysis (EDA)
-Feature Engineering
-Model Development and Training
-Model Evaluation and Performance Analysis
-Conclusion and Key Findings
+* Data Loading and Understanding
+* Data Cleaning and Preprocessing
+* Exploratory Data Analysis (EDA)
+* Feature Engineering
+* Model Development and Training
+* Model Evaluation and Performance Analysis
+* Conclusion and Key Findings
 
 ## Objective
 To demonstrate practical understanding of data science concepts and machine learning algorithms through additional hands-on projects.
